@@ -1,0 +1,1 @@
+# qamid-diplom
