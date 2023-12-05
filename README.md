@@ -41,7 +41,7 @@
 
 ### 1. Проверка приложения.
 
-1. Скачайте [архив с приложением](fmh-android.zip), откройте его в Android Studio и установите на устройство.   
+1. Скачайте [архив с приложением](https://drive.google.com/drive/folders/1zrL0XXgkMxpfF7tTNUrGAwQPvI7k8C69), откройте его в Android Studio и установите на устройство.   
 Данные для авторизации:
 
 - `login2`;
