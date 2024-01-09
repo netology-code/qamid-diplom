@@ -41,7 +41,7 @@
 
 ### 1. Проверка приложения.
 
-1. Скачайте [архив с приложением]([https://drive.google.com/drive/folders/1zrL0XXgkMxpfF7tTNUrGAwQPvI7k8C69](https://drive.google.com/drive/u/2/folders/128aDejMmuMbTdo5avE5_GjY1PmBkDjpL), откройте его в Android Studio и установите на устройство.   
+1. Скачайте [архив с приложением](https://drive.google.com/drive/u/2/folders/128aDejMmuMbTdo5avE5_GjY1PmBkDjpL), откройте его в Android Studio и установите на устройство.   
 Данные для авторизации:
 
 - `login2`;
