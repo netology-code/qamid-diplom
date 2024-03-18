@@ -41,7 +41,7 @@
 
 ### 1. Проверка приложения.
 
-1. Скачайте [архив с приложением](https://disk.yandex.ru/client/disk/Диплом%20QAMID), откройте его в Android Studio и установите на устройство.   
+1. Скачайте [архив с приложением](https://drive.google.com/drive/u/1/folders/14Sl8CAiIzFqtyXx6BAmWVlbu3_cXXzH1), откройте его в Android Studio и установите на устройство.   
 Данные для авторизации:
 
 - `login2`;
